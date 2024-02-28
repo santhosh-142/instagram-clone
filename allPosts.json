@@ -1,0 +1,77 @@
+[
+  {
+    "id": 0,
+    "username": "Jashua",
+    "profileImage": "https://images.pexels.com/photos/1182825/pexels-photo-1182825.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Andhra, India",
+    "images": [
+      "https://images.pexels.com/photos/1182825/pexels-photo-1182825.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/18037931/pexels-photo-18037931/free-photo-of-italy.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "likes": 52,
+    "description": "The game in Japan was amazing and I want to share some photos"
+  },
+  {
+    "id": 1,
+    "username": "Jennifer",
+    "profileImage": "https://images.pexels.com/photos/20042953/pexels-photo-20042953/free-photo-of-peach-fuzz-vintage.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Andhra, India",
+    "images": [
+      "https://images.pexels.com/photos/20042953/pexels-photo-20042953/free-photo-of-peach-fuzz-vintage.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/19910980/pexels-photo-19910980/free-photo-of-brunette-woman-standing-in-alley-in-town.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "likes": 26,
+    "description": "The game in Japan was amazing and I want to share some photos"
+  },
+  {
+    "id": 2,
+    "username": "Kiran Kumar R",
+    "profileImage": "https://images.pexels.com/photos/19748574/pexels-photo-19748574/free-photo-of-a-man-walking-down-the-street-with-a-suitcase.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Bengaluru, India",
+    "images": [
+      "https://images.pexels.com/photos/19748574/pexels-photo-19748574/free-photo-of-a-man-walking-down-the-street-with-a-suitcase.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "likes": 18,
+    "description": "The game in Japan was amazing and I want to share some photos"
+  },
+  {
+    "id": 3,
+    "username": "Jessica",
+    "profileImage": "https://images.pexels.com/photos/19884944/pexels-photo-19884944/free-photo-of-photoshooting-in-marrakech.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Andhra, India",
+    "images": [
+      "https://images.pexels.com/photos/14846058/pexels-photo-14846058.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/19884944/pexels-photo-19884944/free-photo-of-photoshooting-in-marrakech.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/19431712/pexels-photo-19431712/free-photo-of-animal-pet-cute-fur.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "likes": 152,
+    "description": "The game in Japan was amazing and I want to share some photos"
+  },
+  {
+    "id": 4,
+    "username": "Moen Ali",
+    "profileImage": "https://images.pexels.com/photos/709188/pexels-photo-709188.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Andhra, India",
+    "images": [
+      "https://images.pexels.com/photos/709188/pexels-photo-709188.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "likes": 152,
+    "description": "The game in Japan was amazing and I want to share some photos"
+  },
+  {
+    "id": 5,
+    "username": "Avesh Khan",
+    "profileImage": "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Andhra, India",
+    "images": [
+      "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1232459/pexels-photo-1232459.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "likes": 152,
+    "description": "The game in Japan was amazing and I want to share some photos"
+  }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "image": "https://randomuser.me/api/portraits/med/men/45.jpg"
+    },
+    {
+        "id": 2,
+        "image": "https://randomuser.me/api/portraits/med/women/46.jpg"
+    },
+    {
+        "id": 3,
+        "image": "https://randomuser.me/api/portraits/med/men/47.jpg"
+    }
+]

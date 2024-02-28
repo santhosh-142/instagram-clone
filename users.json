@@ -1,0 +1,70 @@
+[
+  {
+    "id": 0,
+    "name": "Santhosh Pujari",
+    "bio": "Software Engineer - 1, Geekyants",
+    "website": "Geekyants.com",
+    "posts": "54",
+    "followers": "834",
+    "following": "162",
+    "profileImg": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "images": [
+      "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Kiran Kumar R",
+    "bio": "Software Engineer - 1, Geekyants",
+    "website": "Geekyants.com",
+    "posts": "154",
+    "followers": "1.2 K",
+    "following": "64",
+    "profileImg": "https://randomuser.me/api/portraits/med/men/58.jpg",
+    "images": [
+      "https://randomuser.me/api/portraits/med/men/58.jpg",
+      "https://randomuser.me/api/portraits/med/men/58.jpg",
+      "https://randomuser.me/api/portraits/med/men/58.jpg",
+      "https://randomuser.me/api/portraits/med/men/58.jpg",
+      "https://randomuser.me/api/portraits/med/men/58.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nishanth P",
+    "bio": "Software Engineer - 1, Geekyants",
+    "website": "Geekyants.com",
+    "posts": "22",
+    "followers": "3.4 K",
+    "following": "180",
+    "profileImg": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "images": [
+      "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "https://randomuser.me/api/portraits/med/men/59.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mohith",
+    "bio": "Software Engineer - 1, Geekyants",
+    "website": "Geekyants.com",
+    "posts": "134",
+    "followers": "6.4 K",
+    "following": "123",
+    "profileImg": "https://randomuser.me/api/portraits/med/men/61.jpg",
+    "images": [
+      "https://randomuser.me/api/portraits/med/men/61.jpg",
+      "https://randomuser.me/api/portraits/med/men/61.jpg",
+      "https://randomuser.me/api/portraits/med/men/61.jpg",
+      "https://randomuser.me/api/portraits/med/men/61.jpg",
+      "https://randomuser.me/api/portraits/med/men/61.jpg"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Friends",
+        "imageUrl": "https://randomuser.me/api/portraits/med/men/22.jpg"
+    },
+    {
+        "name": "Collegues",
+        "imageUrl": "https://randomuser.me/api/portraits/med/men/23.jpg"
+    },
+    {
+        "name": "Family",
+        "imageUrl": "https://randomuser.me/api/portraits/med/men/24.jpg"
+    },
+    {
+        "name": "Sports",
+        "imageUrl": "https://randomuser.me/api/portraits/med/men/25.jpg"
+    },
+    {
+        "name": "Gym",
+        "imageUrl": "https://randomuser.me/api/portraits/med/men/26.jpg"
+    },
+    {
+        "name": "Places",
+        "imageUrl": "https://randomuser.me/api/portraits/med/men/27.jpg"
+    }
+]
