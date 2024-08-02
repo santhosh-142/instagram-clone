@@ -4,6 +4,7 @@ import {SafeAreaView} from 'react-native-safe-area-context';
 import InstaPosts from '../components/InstagramPosts';
 import InstaStoriesWithNavigation from '../components/InstagramStories.tsx/InstaStories';
 import { useState } from 'react';
+import CustomProgressBar from '../components/InstagramStories.tsx/ProgressBar';
 
 const HomeScreen = ({route}: any) => {
   const [refresh, setRefresh] = useState(false);
@@ -17,7 +18,7 @@ const HomeScreen = ({route}: any) => {
 
   return (
     <SafeAreaView>
-      <Box style={styles.container}>
+      {/* <Box style={styles.container}>
         <ScrollView
           refreshControl={
             <RefreshControl refreshing={refresh} onRefresh={() => pullDown()} />
@@ -26,7 +27,9 @@ const HomeScreen = ({route}: any) => {
           <InstaStoriesWithNavigation />
           <InstaPosts data={route} />
         </ScrollView>
-      </Box>
+      </Box> */}
+
+      <CustomProgressBar />
     </SafeAreaView>
   );
 }

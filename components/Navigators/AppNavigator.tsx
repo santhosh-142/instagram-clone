@@ -13,15 +13,15 @@ const Stack = createStackNavigator();
 
 const AppNavigator = () => {
   return (
-    <Stack.Navigator initialRouteName='login' screenOptions={{headerShown: false}}>
+    <Stack.Navigator screenOptions={{headerShown: false}}>
       <Stack.Screen name="bottomTabs" component={BottomTabs} />
       <Stack.Screen name="userStory" component={UserStory} />
       <Stack.Screen name="login" component={LoginScreen} />
       <Stack.Screen name="instaStories" component={InstaStories} />
       {/* <Stack.Screen name="home" component={HomeScreen} /> */}
-      <Stack.Screen name='profileScreen' component={ProfileScreen} />
-      <Stack.Screen name='editProfile' component={EditProfileScreen} />
-      <Stack.Screen name='individualPost' component={IndividualPost} />
+      <Stack.Screen name="profileScreen" component={ProfileScreen} />
+      <Stack.Screen name="editProfile" component={EditProfileScreen} />
+      <Stack.Screen name="individualPost" component={IndividualPost} />
     </Stack.Navigator>
   );
 };
